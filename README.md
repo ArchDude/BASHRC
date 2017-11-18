@@ -1,2 +1,2 @@
 # BASHRC
-Красивый (Так сказала Мама) bashrc на все случаи жизни, забирай, приятель)
+.bashrc file for bash-shell.
